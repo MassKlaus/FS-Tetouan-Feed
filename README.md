@@ -92,4 +92,3 @@ fs.uae.ac.ma ──scrape──▶ data/ ──build──▶ dist/ ──▶ Cl
 - **Cloudflare Pages:** `dist/_headers` sets `no-cache` on HTML and data, `immutable` on fingerprinted
   assets, and a strict CSP. Build command: `npm ci && npm run build && npm run check`, output `dist`.
 - **Not built yet:** archive page, splitting `last_checked` out of `data.json`, an events tab.
-# FS-Tetouan-Feed

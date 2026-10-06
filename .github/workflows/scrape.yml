@@ -1,0 +1,74 @@
+name: scrape
+
+# Four runs a day at 00, 06, 12 and 18 GMT. Cloudflare Pages rebuilds the site
+# from each data commit, so this workflow never needs Cloudflare credentials.
+on:
+  schedule:
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch:
+    inputs:
+      refetch:
+        description: 'Re-check the newest N stored posts for edits (use 100 to recheck everything)'
+        required: false
+        default: '10'
+      silent_rehash:
+        description: 'Cleaner rules changed: refresh hashes without marking posts as edited'
+        type: boolean
+        default: false
+
+# the only permission the job needs: pushing the data commit
+permissions:
+  contents: write
+
+# never let two runs write state at the same time; queue instead of cancelling
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # refuse to run at all if the code or the sanitizer regressed
+      - name: Typecheck and sanitizer tests
+        run: |
+          npm run typecheck
+          npm test
+
+      - name: Scrape
+        env:
+          REFETCH: ${{ inputs.refetch || '10' }}
+          SILENT_REHASH: ${{ inputs.silent_rehash && '1' || '' }}
+          # if fs.uae.ac.ma's certificate ever fails verification in CI, enable this
+          # for this step only (read-only public scraping, nothing sensitive sent):
+          # NODE_TLS_REJECT_UNAUTHORIZED: '0'
+        run: npm run scrape
+
+      # build and scan before committing, so a bad scrape never reaches the repo
+      - name: Build and safety checks
+        run: |
+          npm run build
+          npm run check
+
+      - name: Commit data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data
+          if git diff --cached --quiet; then
+            echo 'no data changes'
+            exit 0
+          fi
+          git commit -m "data: scrape $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase
+          git push
