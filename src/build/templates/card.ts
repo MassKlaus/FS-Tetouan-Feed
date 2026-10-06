@@ -15,7 +15,7 @@ export function badge(post: ViewPost): string {
 /** One announcement in the feed: image, title, excerpt, then a footer with files and dates. */
 export function card(post: ViewPost): string {
   const pill = badge(post);
-  return `<li><a class="card" href="p/${post.id}.html">
+  return `<li><a class="card" href="p/${post.id}">
   ${cardImage(post)}
   <div class="txt">
     ${pill ? `<div class="meta">${pill}</div>` : ''}

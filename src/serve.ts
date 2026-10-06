@@ -27,6 +27,12 @@ async function globalHeaders(): Promise<Record<string, string>> {
   return headers;
 }
 
+/** Clean URLs, like Cloudflare: /p/45 is served from p/45.html. */
+async function readPage(file: string): Promise<Buffer> {
+  if (path.extname(file)) return fs.readFile(file);
+  return fs.readFile(`${file}.html`);
+}
+
 http
   .createServer(async (req, res) => {
     let pathname = decodeURIComponent(new URL(req.url ?? '/', 'http://localhost').pathname);
@@ -36,7 +42,7 @@ http
     if (!file.startsWith(dist)) return void res.writeHead(403).end();
 
     try {
-      const body = await fs.readFile(file);
+      const body = await readPage(file);
       res
         .writeHead(200, {
           'content-type': CONTENT_TYPES[path.extname(file)] ?? 'application/octet-stream',

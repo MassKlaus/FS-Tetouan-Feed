@@ -1,5 +1,6 @@
+import { SITE } from '../../config.ts';
 import { esc } from './html.ts';
-import { SPRITE } from './icons.ts';
+import { icon, SPRITE } from './icons.ts';
 
 interface LayoutInput {
   title: string;
@@ -28,15 +29,19 @@ export function layout({ title, body, depth = 0, description = DEFAULT_DESCRIPTI
 <body>
 ${SPRITE}
 <header class="top"><div class="wrap">
-  <a class="brand" href="${up}index.html"><span class="mark">FS</span> Feed</a>
-  <span class="tag">Faculté des Sciences de Tétouan</span>
+  <a class="brand" href="${up || './'}"><span class="mark">FS</span> Feed</a>
+  <div class="top-end">
+    <span class="tag">Faculté des Sciences de Tétouan</span>
+    <a class="gh" href="${SITE.repoUrl}" rel="noopener" aria-label="Code source sur GitHub" title="Code source sur GitHub">${icon('github')}</a>
+  </div>
 </div></header>
 <main class="wrap">
 ${body}
 </main>
 <footer class="wrap foot">
   Copie légère, non officielle. Source : <a href="https://fs.uae.ac.ma" rel="noopener">fs.uae.ac.ma</a> ·
-  <a href="${up}feed.xml">Flux Atom</a> · <a href="${up}data.json">data.json</a>
+  <a href="${up}feed.xml">Flux Atom</a> · <a href="${up}data.json">data.json</a> ·
+  <a href="${SITE.repoUrl}" rel="noopener">Code sur GitHub</a>
 </footer>
 </body>
 </html>

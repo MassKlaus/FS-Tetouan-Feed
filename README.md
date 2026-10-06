@@ -4,6 +4,8 @@ A lightweight, zero-JavaScript mirror of the announcements of the Faculté des S
 (https://fs.uae.ac.ma). It scrapes the news, cleans the HTML, mirrors images as small WebP, and
 builds a static site that is fast on a bad connection and shows what is new at a glance.
 
+Source code: https://github.com/MassKlaus/FS-Tetouan-Feed
+
 Written in TypeScript on Node 20.11+ (run with `tsx`, no compile step).
 
 > **Vibe-coded.** This project was built by conversation with an AI coding assistant (Claude Code).

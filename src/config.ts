@@ -63,4 +63,6 @@ export const SITE = {
   /** How long a post keeps its NEW / UPDATED pill. */
   badgeHours: 48,
   feedLength: 30,
+  /** Shown in the page footer and README. */
+  repoUrl: 'https://github.com/MassKlaus/FS-Tetouan-Feed',
 } as const;

@@ -39,7 +39,7 @@ export function postPage(post: ViewPost, bodyHtml: string): string {
   const edited = post.rev > 1 ? `<span class="chip">modifié ${format.stamp.format(new Date(post.updated_at))}</span>` : '';
   const published = post.date ? format.dayLong.format(new Date(post.date)) : '';
 
-  const body = `<nav class="crumb"><a href="../index.html">← Toutes les annonces</a></nav>
+  const body = `<nav class="crumb"><a href="../">← Toutes les annonces</a></nav>
 <article class="post">
   <div class="meta">${badge(post)}<time datetime="${esc(post.date ?? '')}">${published}</time>
     ${edited}</div>

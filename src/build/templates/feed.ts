@@ -12,8 +12,8 @@ export function feedXml(posts: ViewPost[], state: State, now: Date): string {
     .map(
       (post) => `<entry>
 <title>${esc(post.title)}</title>
-<id>${SITE.url}/p/${post.id}.html</id>
-<link href="${SITE.url}/p/${post.id}.html" />
+<id>${SITE.url}/p/${post.id}</id>
+<link href="${SITE.url}/p/${post.id}" />
 <updated>${new Date(post.updated_at).toISOString()}</updated>
 <summary>${esc(post.excerpt || post.title)}</summary>
 </entry>`,

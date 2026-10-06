@@ -45,6 +45,10 @@ img { max-width: 100%; height: auto; }
 .top .wrap { display: flex; align-items: center; gap: 12px; min-height: 64px; padding-block-start: 8px; }
 .brand { font-weight: 700; font-size: 1.1rem; color: var(--ink); text-decoration: none; display: inline-flex; gap: 8px; align-items: center; }
 .mark { background: var(--brand); color: var(--brand-ink); border-radius: 8px; padding: 2px 8px; font-weight: 800; letter-spacing: .02em; }
+.top-end { margin-inline-start: auto; display: flex; align-items: center; gap: 14px; }
+.gh { display: inline-flex; padding: 6px; margin-inline-end: -6px; border-radius: var(--radius); color: var(--muted); }
+.gh:hover, .gh:focus-visible { color: var(--ink); outline: none; }
+.gh .ic { width: 22px; height: 22px; }
 .tag { color: var(--muted); font-size: .85rem; margin-inline-start: auto; text-align: end; }
 
 
