@@ -58,8 +58,11 @@ export const SITE = {
    * so we display UTC, which is always correct.
    */
   timeZone: 'UTC',
-  /** Hours (UTC) at which CI scrapes. Used for the "next check" estimate. */
-  runHoursUtc: [0, 6, 12, 18],
+  /**
+   * Times (UTC, HH:MM) of the primary scheduled scrapes, just before 00, 06, 12 and 18.
+   * Used for the "next check" estimate. Keep in sync with the workflow cron.
+   */
+  runTimesUtc: ['05:47', '11:47', '17:47', '23:47'],
   /** How long a post keeps its NEW / UPDATED pill. */
   badgeHours: 48,
   feedLength: 30,

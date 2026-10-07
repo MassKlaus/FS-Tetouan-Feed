@@ -1,10 +1,19 @@
 name: scrape
 
-# Four runs a day at 00, 06, 12 and 18 GMT. Cloudflare Pages rebuilds the site
-# from each data commit, so this workflow never needs Cloudflare credentials.
+# Every six hours, timed so fresh data is live by 00:00, 06:00, 12:00 and 18:00 GMT.
+# Cloudflare rebuilds the site from each data commit, so this workflow never needs
+# Cloudflare credentials.
+#
+# GitHub's schedule is best-effort: runs are delayed or dropped, worst at the start
+# of every hour. So each slot gets two chances, both off the hour:
+#   primary  at :47, just before the mark (live by the hour)
+#   backup   at :17, in case the primary was dropped or badly delayed
+# The scraper is idempotent, so a second run that finds nothing new changes nothing.
+# Keep SITE.runTimesUtc in src/config.ts in sync with the primary times.
 on:
   schedule:
-    - cron: '0 0,6,12,18 * * *'
+    - cron: '47 5,11,17,23 * * *'
+    - cron: '17 0,6,12,18 * * *'
   workflow_dispatch:
     inputs:
       refetch:

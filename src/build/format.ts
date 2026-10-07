@@ -35,8 +35,9 @@ export const capitalize = (text: string): string => text.charAt(0).toUpperCase()
 /** The next scheduled scrape after `now`. */
 export function nextRunAfter(now: Date): Date {
   for (let dayOffset = 0; dayOffset < 2; dayOffset++) {
-    for (const hour of SITE.runHoursUtc) {
-      const run = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + dayOffset, hour));
+    for (const time of SITE.runTimesUtc) {
+      const [hour, minute] = time.split(':').map(Number) as [number, number];
+      const run = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + dayOffset, hour, minute));
       if (run > now) return run;
     }
   }

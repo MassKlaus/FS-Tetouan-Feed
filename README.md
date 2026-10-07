@@ -49,7 +49,7 @@ Environment knobs: `REFETCH=100` (re-check every stored post), `SILENT_REHASH=1`
 ```
 fs.uae.ac.ma ──scrape──▶ data/ ──build──▶ dist/ ──▶ Cloudflare Pages
                           ▲
-            GitHub Actions cron (00, 06, 12, 18 GMT) commits data/
+            GitHub Actions cron (every 6 h, :47 with a :17 backup) commits data/
 ```
 
 1. **Discover.** The site has no feed or sitemap. Post pages are `/actualite/{id}-{anything}` and the

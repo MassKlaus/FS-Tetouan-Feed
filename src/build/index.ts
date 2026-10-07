@@ -14,7 +14,7 @@ import { toViewPosts } from './model.ts';
 import { feedXml } from './templates/feed.ts';
 import { indexPage, postPage } from './templates/pages.ts';
 
-const now = new Date(process.env.BUILD_NOW ?? Date.now());
+const now = new Date(process.env.BUILD_NOW || Date.now()); // an empty value means the real clock
 const state = JSON.parse(await fs.readFile(PATHS.stateFile, 'utf8')) as State;
 const posts = toViewPosts(state, now);
 const { dist } = PATHS;
