@@ -1307,7 +1307,7 @@
    "date": "2026-10-05",
    "url": "https://fs.uae.ac.ma/actualite/78-Liste%20des%20inscrits%20session%202026-2027",
    "excerpt": "Liste des inscrits : Tronc commun S1 Option S3 Parcours S5 BG-1 Biologie-3 Biologie-5 BG-1 Géologie-3 Géologie-5 PC-1 Physique-3 Physique-5 PC-1 Chimie-3 Chimie-5 MI-1 Math-3 Math-5 MI-1 Info-3 Info-5",
-   "files": 9,
+   "files": 12,
    "thumb": {
     "file": "78-t.webp",
     "w": 640,
@@ -1328,11 +1328,11 @@
      "h": 450
     }
    ],
-   "hash": "2593785dd930525ada0400c98434350a827b12ff",
+   "hash": "70b2c96cce46cf16dbea768f621a68f9e557fb5e",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-06T19:00:12.249Z",
-   "rev": 2
+   "updated_at": "2026-10-07T00:26:35.991Z",
+   "rev": 3
   },
   "79": {
    "id": 79,
@@ -1407,8 +1407,8 @@
    "rev": 1
   }
  },
- "last_checked": "2026-10-06T19:01:22.445Z",
- "last_changed": "2026-10-06T19:00:12.249Z",
+ "last_checked": "2026-10-07T00:26:35.991Z",
+ "last_changed": "2026-10-07T00:26:35.991Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
