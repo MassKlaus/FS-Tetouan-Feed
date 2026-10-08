@@ -1405,10 +1405,43 @@
    "first_seen": "2026-10-06T19:00:12.249Z",
    "updated_at": "2026-10-06T19:00:12.249Z",
    "rev": 1
+  },
+  "81": {
+   "id": 81,
+   "title": "Listes des candidats pour accèdez au concours du master",
+   "date": "2026-10-08",
+   "url": "https://fs.uae.ac.ma/actualite/81-Listes%20des%20candidats%20pour%20acc%C3%A8dez%20au%20concours%20du%20master",
+   "excerpt": "Listes des candidats pour accèdez au concours du master 2026-2027",
+   "files": 1,
+   "thumb": {
+    "file": "81-t.webp",
+    "w": 640,
+    "h": 400
+   },
+   "gallery": [
+    {
+     "file": "81-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "imgs": [
+    {
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-08%2012_44_01/listes_concours_masters.jpg",
+     "file": "81-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "hash": "b898aa2b977da87fdad40cef667d3cbfa70969c5",
+   "deleted": false,
+   "first_seen": "2026-10-08T13:28:03.059Z",
+   "updated_at": "2026-10-08T13:28:03.059Z",
+   "rev": 1
   }
  },
- "last_checked": "2026-10-08T12:14:58.411Z",
- "last_changed": "2026-10-07T12:00:39.382Z",
+ "last_checked": "2026-10-08T13:28:03.059Z",
+ "last_changed": "2026-10-08T13:28:03.059Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
