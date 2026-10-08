@@ -1273,7 +1273,7 @@
    "title": "Emploi_du_temps_session_d'automne_2026",
    "date": "2026-10-01",
    "url": "https://fs.uae.ac.ma/actualite/72-Emploi_du_temps_session_d'automne_2026",
-   "excerpt": "Début des TDS le 5 octobre 2026 S1 S3 S5 Parcours BG BG-1 Section A BG-1 Section B BG-Bio3 Section A BG-Bio3 Section B BG-Géo3 Biologie-5 Géologie-5 Parcours PC PC-1 Section A PC-1 Section B…",
+   "excerpt": "S1 S3 S5 Parcours BG BG-1 Section A BG-1 Section B BG-Bio3 Section A BG-Bio3 Section B BG-Géo3 Biologie-5 Géologie-5 Parcours PC PC-1 Section A PC-1 Section B PC-Chimie3 PC-Physique3 Physique-5…",
    "files": 19,
    "thumb": {
     "file": "72-t.webp",
@@ -1295,11 +1295,11 @@
      "h": 450
     }
    ],
-   "hash": "34f202d5fce25c06db353547d388bcb953b05d78",
+   "hash": "3762b25586f351093afd56de6e1467d32838a4d0",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-01T00:00:00.000Z",
-   "rev": 1
+   "updated_at": "2026-10-08T22:28:42.170Z",
+   "rev": 2
   },
   "78": {
    "id": 78,
@@ -1383,7 +1383,7 @@
     {
      "file": "80-2.webp",
      "w": 546,
-     "h": 495
+     "h": 413
     }
    ],
    "imgs": [
@@ -1394,17 +1394,17 @@
      "h": 772
     },
     {
-     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-06%2014_38_15/affiche_2.png",
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-08%2016_35_02/photo_80_2_1791477302.png",
      "file": "80-2.webp",
      "w": 546,
-     "h": 495
+     "h": 413
     }
    ],
-   "hash": "2cd4f7e6c6301fc6f8a00fdd529a4499ce594ae9",
+   "hash": "aeeb86d0d1f6fc8fcfea7f3f7884d1d5af42830d",
    "deleted": false,
    "first_seen": "2026-10-06T19:00:12.249Z",
-   "updated_at": "2026-10-06T19:00:12.249Z",
-   "rev": 1
+   "updated_at": "2026-10-08T22:28:42.170Z",
+   "rev": 2
   },
   "81": {
    "id": 81,
@@ -1434,14 +1434,47 @@
     }
    ],
    "hash": "b898aa2b977da87fdad40cef667d3cbfa70969c5",
-   "deleted": false,
+   "deleted": true,
    "first_seen": "2026-10-08T13:28:03.059Z",
    "updated_at": "2026-10-08T13:28:03.059Z",
    "rev": 1
+  },
+  "84": {
+   "id": 84,
+   "title": "Avis aux candidats : Listes des candidats pour accédez aux concours du master",
+   "date": "2026-10-08",
+   "url": "https://fs.uae.ac.ma/actualite/84-Avis%20aux%20candidats%20%3A%20Listes%20des%20candidats%20pour%20acc%C3%A9dez%20aux%20concours%20du%20master",
+   "excerpt": "Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les places…",
+   "files": 3,
+   "thumb": {
+    "file": "84-t.webp",
+    "w": 640,
+    "h": 400
+   },
+   "gallery": [
+    {
+     "file": "84-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "imgs": [
+    {
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-08%2016_26_40/Candidatures_masters.jpg",
+     "file": "84-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "hash": "fc21344aa4c899983d65f348dd5e1650f9e8958e",
+   "deleted": false,
+   "first_seen": "2026-10-08T22:28:42.170Z",
+   "updated_at": "2026-10-08T22:28:42.170Z",
+   "rev": 1
   }
  },
- "last_checked": "2026-10-08T13:28:03.059Z",
- "last_changed": "2026-10-08T13:28:03.059Z",
+ "last_checked": "2026-10-08T22:28:42.170Z",
+ "last_changed": "2026-10-08T22:28:42.170Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
