@@ -1441,11 +1441,11 @@
   },
   "84": {
    "id": 84,
-   "title": "Avis aux candidats : Listes des candidats pour accédez aux concours du master",
+   "title": "Candidature_au_master",
    "date": "2026-10-08",
-   "url": "https://fs.uae.ac.ma/actualite/84-Avis%20aux%20candidats%20%3A%20Listes%20des%20candidats%20pour%20acc%C3%A9dez%20aux%20concours%20du%20master",
+   "url": "https://fs.uae.ac.ma/actualite/84-Candidature_au_master",
    "excerpt": "Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les places…",
-   "files": 3,
+   "files": 10,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,15 +1466,48 @@
      "h": 450
     }
    ],
-   "hash": "0d50ebfcf8cb421f3547509b5888fc9a54b7f8ad",
+   "hash": "97a7a772eaf3eed0a68708d11b30cac090aeebf9",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-09T12:06:18.992Z",
-   "rev": 2
+   "updated_at": "2026-10-09T21:52:50.860Z",
+   "rev": 3
+  },
+  "86": {
+   "id": 86,
+   "title": "Récupération des cartes Minhaty non retirées",
+   "date": "2026-10-09",
+   "url": "https://fs.uae.ac.ma/actualite/86-R%C3%A9cup%C3%A9ration%20des%20cartes%20Minhaty%20non%20retir%C3%A9es",
+   "excerpt": "Carte Minhaty Licence Carte Minhaty Master Carte Minhaty Doctorate",
+   "files": 3,
+   "thumb": {
+    "file": "86-t.webp",
+    "w": 640,
+    "h": 400
+   },
+   "gallery": [
+    {
+     "file": "86-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "imgs": [
+    {
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-09%2015_49_07/minhaty.png",
+     "file": "86-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "hash": "3e05f0ff1d9813e7867d072d64fb9723528ea209",
+   "deleted": false,
+   "first_seen": "2026-10-09T21:52:50.860Z",
+   "updated_at": "2026-10-09T21:52:50.860Z",
+   "rev": 1
   }
  },
- "last_checked": "2026-10-09T13:15:47.817Z",
- "last_changed": "2026-10-09T12:06:18.992Z",
+ "last_checked": "2026-10-09T21:52:50.860Z",
+ "last_changed": "2026-10-09T21:52:50.860Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
