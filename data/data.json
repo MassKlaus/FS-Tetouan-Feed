@@ -1445,7 +1445,7 @@
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature_au_master",
    "excerpt": "Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les places…",
-   "files": 11,
+   "files": 12,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "a7e1fe34b1498209751218ad34d448707c092b9c",
+   "hash": "5e0753f9030049c5b9c5518b0afd08d772b83686",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-11T02:12:02.598Z",
-   "rev": 4
+   "updated_at": "2026-10-12T13:32:26.683Z",
+   "rev": 5
   },
   "86": {
    "id": 86,
@@ -1506,8 +1506,8 @@
    "rev": 1
   }
  },
- "last_checked": "2026-10-12T05:56:20.009Z",
- "last_changed": "2026-10-12T02:39:22.290Z",
+ "last_checked": "2026-10-12T13:32:26.683Z",
+ "last_changed": "2026-10-12T13:32:26.683Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
