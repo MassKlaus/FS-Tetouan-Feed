@@ -1270,10 +1270,10 @@
   },
   "72": {
    "id": 72,
-   "title": "Emploi_du_temps_session_d'automne_2026",
+   "title": "Emploi du temps et TD actualisé session d'automne 2026/2027",
    "date": "2026-10-01",
-   "url": "https://fs.uae.ac.ma/actualite/72-Emploi_du_temps_session_d'automne_2026",
-   "excerpt": "S1 S3 S5 Parcours BG BG-1 Section A BG-1 Section B BG-Bio3 Section A BG-Bio3 Section B BG-Géo3 Biologie-5 Géologie-5 Parcours PC PC-1 Section A PC-1 Section B PC-Chimie3 PC-Physique3 Physique-5…",
+   "url": "https://fs.uae.ac.ma/actualite/72-Emploi%20du%20temps%20et%20TD%20actualis%C3%A9%20session%20d'automne%202026%2F2027",
+   "excerpt": "S1 S3 S5 Parcours BG BG-1 Section A BG-1 Section B BG-Bio3 Section A BG-Bio3 Section B BG-Géo3 Biologie-5 Géologie-5 Parcours PC PC-1 Section A PC-1 Section B PC-Chimie3 PC-Physique3 Physique-5 *…",
    "files": 19,
    "thumb": {
     "file": "72-t.webp",
@@ -1295,19 +1295,19 @@
      "h": 450
     }
    ],
-   "hash": "3762b25586f351093afd56de6e1467d32838a4d0",
+   "hash": "c2b138e85207fbbed5e80823f61b22f76a522873",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-08T22:28:42.170Z",
-   "rev": 2
+   "updated_at": "2026-10-12T02:39:22.290Z",
+   "rev": 3
   },
   "78": {
    "id": 78,
-   "title": "Liste des inscrits session 2026-2027",
+   "title": "Liste des étudiants inscrits session d'automne 2026/2027",
    "date": "2026-10-05",
-   "url": "https://fs.uae.ac.ma/actualite/78-Liste%20des%20inscrits%20session%202026-2027",
-   "excerpt": "Liste des inscrits : Tronc commun S1 Option S3 Parcours S5 BG-1 Biologie-3 Biologie-5 BG-1 Géologie-3 Géologie-5 PC-1 Physique-3 Physique-5 PC-1 Chimie-3 Chimie-5 MI-1 Math-3 Math-5 MI-1 Info-3 Info-5",
-   "files": 15,
+   "url": "https://fs.uae.ac.ma/actualite/78-Liste%20des%20%C3%A9tudiants%20inscrits%20session%20d'automne%202026%2F2027",
+   "excerpt": "Tronc commun S1 Option S3 Parcours S5 BG-1 * Biologie-3 * Biologie-5 Géologie-3 * Géologie-5 PC-1 * Physique-3 * Physique-5 Chimie-3 * Chimie-5 MI-1 * Math-3 * Math-5 Info-3 * Info-5",
+   "files": 16,
    "thumb": {
     "file": "78-t.webp",
     "w": 640,
@@ -1328,11 +1328,11 @@
      "h": 450
     }
    ],
-   "hash": "a5a129737c05566a556ff5e2c308d783159e072c",
+   "hash": "4a3a495f9509f54ee47932596ccbdeb87a53d17a",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-11T02:12:02.598Z",
-   "rev": 4
+   "updated_at": "2026-10-12T02:39:22.290Z",
+   "rev": 5
   },
   "79": {
    "id": 79,
@@ -1506,8 +1506,8 @@
    "rev": 1
   }
  },
- "last_checked": "2026-10-11T21:57:27.934Z",
- "last_changed": "2026-10-11T02:12:02.598Z",
+ "last_checked": "2026-10-12T02:39:22.290Z",
+ "last_changed": "2026-10-12T02:39:22.290Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
