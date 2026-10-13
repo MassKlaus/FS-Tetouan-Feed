@@ -1270,10 +1270,10 @@
   },
   "72": {
    "id": 72,
-   "title": "Emploi du temps et TD actualisé session d'automne 2026/2027",
+   "title": "Emploi du temps et TD actualisé",
    "date": "2026-10-01",
-   "url": "https://fs.uae.ac.ma/actualite/72-Emploi%20du%20temps%20et%20TD%20actualis%C3%A9%20session%20d'automne%202026%2F2027",
-   "excerpt": "S1 S3 S5 Parcours BG BG-1 Section A BG-1 Section B BG-Bio3 Section A BG-Bio3 Section B BG-Géo3 Biologie-5 Géologie-5 Parcours PC PC-1 Section A PC-1 Section B PC-Chimie3 PC-Physique3 Physique-5 *…",
+   "url": "https://fs.uae.ac.ma/actualite/72-Emploi%20du%20temps%20et%20TD%20actualis%C3%A9",
+   "excerpt": "*Actualisé le : 09/10/2026 S1 S3 S5 Parcours BG BG-1 Section A BG-1 Section B BG-Bio3 Section A * BG-Bio3 Section B * BG-Géo3 Biologie-5 Géologie-5 Parcours PC PC-1 Section A PC-1 Section B…",
    "files": 19,
    "thumb": {
     "file": "72-t.webp",
@@ -1295,18 +1295,18 @@
      "h": 450
     }
    ],
-   "hash": "c2b138e85207fbbed5e80823f61b22f76a522873",
+   "hash": "f6a1e2b5cd1f6c6a5c3192b09236d09433dff6d2",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-12T02:39:22.290Z",
-   "rev": 3
+   "updated_at": "2026-10-13T12:57:38.380Z",
+   "rev": 4
   },
   "78": {
    "id": 78,
-   "title": "Liste des étudiants inscrits session d'automne 2026/2027",
+   "title": "Liste des étudiants inscrits",
    "date": "2026-10-05",
-   "url": "https://fs.uae.ac.ma/actualite/78-Liste%20des%20%C3%A9tudiants%20inscrits%20session%20d'automne%202026%2F2027",
-   "excerpt": "Tronc commun S1 Option S3 Parcours S5 BG-1 * Biologie-3 * Biologie-5 Géologie-3 * Géologie-5 PC-1 * Physique-3 * Physique-5 Chimie-3 * Chimie-5 MI-1 * Math-3 * Math-5 Info-3 * Info-5",
+   "url": "https://fs.uae.ac.ma/actualite/78-Liste%20des%20%C3%A9tudiants%20inscrits",
+   "excerpt": "*Actualisé le : 11/10/2026 Tronc commun S1 Option S3 Parcours S5 BG-1 * Biologie-3 * Biologie-5 Géologie-3 * Géologie-5 PC-1 * Physique-3 * Physique-5 Chimie-3 * Chimie-5 MI-1 * Math-3 * Math-5…",
    "files": 16,
    "thumb": {
     "file": "78-t.webp",
@@ -1328,11 +1328,11 @@
      "h": 450
     }
    ],
-   "hash": "4a3a495f9509f54ee47932596ccbdeb87a53d17a",
+   "hash": "e0c92874c066caf9dd70028541aad14684155fc9",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-12T02:39:22.290Z",
-   "rev": 5
+   "updated_at": "2026-10-13T12:57:38.380Z",
+   "rev": 6
   },
   "79": {
    "id": 79,
@@ -1441,9 +1441,9 @@
   },
   "84": {
    "id": 84,
-   "title": "Candidature_au_master",
+   "title": "Candidature au master session d'automne 2026/2027",
    "date": "2026-10-08",
-   "url": "https://fs.uae.ac.ma/actualite/84-Candidature_au_master",
+   "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
    "excerpt": "Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les places…",
    "files": 14,
    "thumb": {
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "9ad1d7abd52d1a261a8a8cde5d7510d2657f63b3",
+   "hash": "bac0ae0d7bea513489d6361246770fbd17ddf770",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-13T03:55:07.170Z",
-   "rev": 7
+   "updated_at": "2026-10-13T12:57:38.380Z",
+   "rev": 8
   },
   "86": {
    "id": 86,
@@ -1506,8 +1506,8 @@
    "rev": 1
   }
  },
- "last_checked": "2026-10-13T03:55:07.170Z",
- "last_changed": "2026-10-13T03:55:07.170Z",
+ "last_checked": "2026-10-13T12:57:38.380Z",
+ "last_changed": "2026-10-13T12:57:38.380Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
