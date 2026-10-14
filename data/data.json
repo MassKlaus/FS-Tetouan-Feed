@@ -1207,8 +1207,8 @@
    "title": "convention stage mobilité doctorant",
    "date": "2026-09-30",
    "url": "https://fs.uae.ac.ma/actualite/70-convention%20stage%20mobilit%C3%A9%20doctorant",
-   "excerpt": "BG-1 Section A BG-1 Section B",
-   "files": 2,
+   "excerpt": "Convention stage",
+   "files": 1,
    "thumb": {
     "file": "70-t.webp",
     "w": 640,
@@ -1229,11 +1229,11 @@
      "h": 450
     }
    ],
-   "hash": "79640135e3eb1a97dfe58975b8ac1ece66709fa9",
+   "hash": "a57d12d9ae069b63ca8112976325c70a65c18b8e",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-09-30T00:00:00.000Z",
-   "rev": 1
+   "updated_at": "2026-10-14T15:57:51.463Z",
+   "rev": 2
   },
   "71": {
    "id": 71,
@@ -1361,11 +1361,11 @@
      "h": 450
     }
    ],
-   "hash": "1e9c1152baf2e97c118bfdb180266f5e90277c6f",
+   "hash": "8a076d1c7845f8cea215817a4d1212394789258a",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-07T12:00:39.382Z",
-   "rev": 2
+   "updated_at": "2026-10-14T15:57:51.463Z",
+   "rev": 3
   },
   "80": {
    "id": 80,
@@ -1445,7 +1445,7 @@
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
    "excerpt": "Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les places…",
-   "files": 14,
+   "files": 15,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "bac0ae0d7bea513489d6361246770fbd17ddf770",
+   "hash": "1ee358dd7b3a6432b876f9141ad4258db48a725a",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-13T12:57:38.380Z",
-   "rev": 8
+   "updated_at": "2026-10-14T15:57:51.463Z",
+   "rev": 9
   },
   "86": {
    "id": 86,
@@ -1506,8 +1506,8 @@
    "rev": 1
   }
  },
- "last_checked": "2026-10-14T11:50:51.537Z",
- "last_changed": "2026-10-13T21:57:46.013Z",
+ "last_checked": "2026-10-14T15:57:51.463Z",
+ "last_changed": "2026-10-14T15:57:51.463Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
