@@ -1273,7 +1273,7 @@
    "title": "Emploi du temps et TD actualisé",
    "date": "2026-10-01",
    "url": "https://fs.uae.ac.ma/actualite/72-Emploi%20du%20temps%20et%20TD%20actualis%C3%A9",
-   "excerpt": "*Actualisé le : 09/10/2026 S1 S3 S5 Parcours BG BG-1 Section A BG-1 Section B BG-Bio3 Section A * BG-Bio3 Section B * BG-Géo3 Biologie-5 Géologie-5 Parcours PC PC-1 Section A PC-1 Section B…",
+   "excerpt": "*Actualisé le : 09/10/2026 S1 S3 S5 Parcours BG BG-1 A BG-1 B BG-Bio3 A * BG-Bio3 B * BG-Géo3 Bio-5 Géo-5 Parcours PC PC-1 A PC-1 B PC-C3 PC-P3 Physique-5 * Chimie-5 * Parcours MI MI-1 A MI-1 B MI-I3…",
    "files": 19,
    "thumb": {
     "file": "72-t.webp",
@@ -1295,11 +1295,11 @@
      "h": 450
     }
    ],
-   "hash": "57159d88875344b7d2b8595b510d095ba39c60b2",
+   "hash": "0427c159cb588bc6fb20e65aac476795ed9b50bb",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-13T21:57:46.013Z",
-   "rev": 5
+   "updated_at": "2026-10-14T17:09:43.652Z",
+   "rev": 6
   },
   "78": {
    "id": 78,
@@ -1445,7 +1445,7 @@
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
    "excerpt": "Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les places…",
-   "files": 15,
+   "files": 16,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "1ee358dd7b3a6432b876f9141ad4258db48a725a",
+   "hash": "d0ba07cc17a5379cc575383abeadb13d502c6771",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-14T15:57:51.463Z",
-   "rev": 9
+   "updated_at": "2026-10-14T17:09:43.652Z",
+   "rev": 10
   },
   "86": {
    "id": 86,
@@ -1506,8 +1506,8 @@
    "rev": 1
   }
  },
- "last_checked": "2026-10-14T15:57:51.463Z",
- "last_changed": "2026-10-14T15:57:51.463Z",
+ "last_checked": "2026-10-14T17:09:43.652Z",
+ "last_changed": "2026-10-14T17:09:43.652Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
