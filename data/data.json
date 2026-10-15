@@ -1504,10 +1504,43 @@
    "first_seen": "2026-10-09T21:52:50.860Z",
    "updated_at": "2026-10-09T21:52:50.860Z",
    "rev": 1
+  },
+  "88": {
+   "id": 88,
+   "title": "test",
+   "date": "2026-10-15",
+   "url": "https://fs.uae.ac.ma/actualite/88-test",
+   "excerpt": "tableau Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les…",
+   "files": 16,
+   "thumb": {
+    "file": "88-t.webp",
+    "w": 640,
+    "h": 400
+   },
+   "gallery": [
+    {
+     "file": "88-1.webp",
+     "w": 512,
+     "h": 512
+    }
+   ],
+   "imgs": [
+    {
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-15%2012_09_55_122eb0/diaporama_2c7353d02bbe.png",
+     "file": "88-1.webp",
+     "w": 512,
+     "h": 512
+    }
+   ],
+   "hash": "2c951e502f7c5b81ff1ffd9e0ec92aa250e12324",
+   "deleted": false,
+   "first_seen": "2026-10-15T15:44:19.072Z",
+   "updated_at": "2026-10-15T15:44:19.072Z",
+   "rev": 1
   }
  },
- "last_checked": "2026-10-15T11:27:36.663Z",
- "last_changed": "2026-10-15T11:27:36.663Z",
+ "last_checked": "2026-10-15T15:44:19.072Z",
+ "last_changed": "2026-10-15T15:44:19.072Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
