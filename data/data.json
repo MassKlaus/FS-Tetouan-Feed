@@ -1273,7 +1273,7 @@
    "title": "Emploi du temps et TD actualisé",
    "date": "2026-10-01",
    "url": "https://fs.uae.ac.ma/actualite/72-Emploi%20du%20temps%20et%20TD%20actualis%C3%A9",
-   "excerpt": "*Actualisé le : 09/10/2026 S1 S3 S5 Parcours BG BG-1 A BG-1 B BG-Bio3 A * BG-Bio3 B * BG-Géo3 Bio-5 Géo-5 Parcours PC PC-1 A PC-1 B PC-C3 PC-P3 Physique-5 * Chimie-5 * Parcours MI MI-1 A MI-1 B MI-I3…",
+   "excerpt": "*Actualisé le : 16/10/2026 S1 S3 S5 Parcours BG BG-1 A BG-1 B BG-Bio3 A * BG-Bio3 B BG-Géo3 Bio-5 Géo-5 Parcours PC PC-1 A PC-1 B PC-C3 PC-P3 Physique-5 Chimie-5 Parcours MI MI-1 A MI-1 B MI-I3 *…",
    "files": 19,
    "thumb": {
     "file": "72-t.webp",
@@ -1295,11 +1295,11 @@
      "h": 450
     }
    ],
-   "hash": "0427c159cb588bc6fb20e65aac476795ed9b50bb",
+   "hash": "5db1241e638db4de66a8093fb678202aeaa510e1",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-14T17:09:43.652Z",
-   "rev": 6
+   "updated_at": "2026-10-16T15:33:30.123Z",
+   "rev": 7
   },
   "78": {
    "id": 78,
@@ -1444,8 +1444,8 @@
    "title": "Candidature au master session d'automne 2026/2027",
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
-   "excerpt": "Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour passer l'entretien Candidats retenus en liste principale Candidats retenus en liste d’attente (Selon les places…",
-   "files": 17,
+   "excerpt": "Déclaration sur l'honneur de non-activité professionnelle Liste des pièces à fournir pour l’inscription en Master Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour…",
+   "files": 23,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "cb8b7dffa57b5c134c731b9d42727abcce1d8a04",
+   "hash": "7fff5e3f560c9675c6a880fd39740af8539cb39a",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-15T11:27:36.663Z",
-   "rev": 12
+   "updated_at": "2026-10-16T15:33:30.123Z",
+   "rev": 13
   },
   "86": {
    "id": 86,
@@ -1539,8 +1539,8 @@
    "rev": 1
   }
  },
- "last_checked": "2026-10-16T11:22:48.451Z",
- "last_changed": "2026-10-15T15:44:19.072Z",
+ "last_checked": "2026-10-16T15:33:30.123Z",
+ "last_changed": "2026-10-16T15:33:30.123Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
