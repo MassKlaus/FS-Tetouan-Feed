@@ -1537,10 +1537,43 @@
    "first_seen": "2026-10-15T15:44:19.072Z",
    "updated_at": "2026-10-15T15:44:19.072Z",
    "rev": 1
+  },
+  "92": {
+   "id": 92,
+   "title": "AVIS AUX CANDIDATS ADMIS AU CYCLE DOCTORAL 2026-2027",
+   "date": "2026-10-23",
+   "url": "https://fs.uae.ac.ma/actualite/92-AVIS%20AUX%20CANDIDATS%20ADMIS%20AU%20CYCLE%20DOCTORAL%202026-2027",
+   "excerpt": "Avis d'inscription première année doctorat 2026/2027 ( à lire attentivement ) Liste 1 : 26 Octobre 2026 de 10h à 15h . Liste 2 : 27 Octobre 2026 de 10h à 15h . Liste 3 : 28 Octobre 2026 de 10h à 15h…",
+   "files": 8,
+   "thumb": {
+    "file": "92-t.webp",
+    "w": 640,
+    "h": 400
+   },
+   "gallery": [
+    {
+     "file": "92-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "imgs": [
+    {
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-23%2010_34_04_655f68/diaporama_6b72c160cdee.jpg",
+     "file": "92-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "hash": "7a6d5b8e24ae4ae2f8fe57c0b00cd8fdb0109fac",
+   "deleted": false,
+   "first_seen": "2026-10-23T11:37:24.780Z",
+   "updated_at": "2026-10-23T11:37:24.780Z",
+   "rev": 1
   }
  },
- "last_checked": "2026-10-23T10:31:48.743Z",
- "last_changed": "2026-10-23T10:31:48.743Z",
+ "last_checked": "2026-10-23T11:37:24.780Z",
+ "last_changed": "2026-10-23T11:37:24.780Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
