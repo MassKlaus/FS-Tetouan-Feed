@@ -1445,7 +1445,7 @@
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
    "excerpt": "Déclaration sur l'honneur de non-activité professionnelle Liste des pièces à fournir pour l’inscription en Master Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour…",
-   "files": 49,
+   "files": 51,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "22e980807b3024d2b25173469eadc71e6e92b3a7",
+   "hash": "945c914676c025b06ce596cc462416bf982f6e41",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-26T11:33:04.140Z",
-   "rev": 21
+   "updated_at": "2026-10-26T17:39:14.070Z",
+   "rev": 22
   },
   "86": {
    "id": 86,
@@ -1570,15 +1570,49 @@
    "first_seen": "2026-10-23T11:37:24.780Z",
    "updated_at": "2026-10-26T11:33:04.140Z",
    "rev": 2
+  },
+  "94": {
+   "id": 94,
+   "title": "Listes des inscrits en deuxième année Masters 2026-2027",
+   "date": "2026-10-26",
+   "url": "https://fs.uae.ac.ma/actualite/94-Listes%20des%20inscrits%20en%20deuxi%C3%A8me%20ann%C3%A9e%20Masters%202026-2027",
+   "excerpt": "N° Intitulé du Master 2ème Année 1 Biotechnologie et sciences de la santé (BSS) Consulter 2 Ingénierie en biotechnologie et gestion de l’environnement (IBGE) Consulter 3 Valorisation des ressources…",
+   "files": 17,
+   "thumb": {
+    "file": "94-t.webp",
+    "w": 640,
+    "h": 400
+   },
+   "gallery": [
+    {
+     "file": "94-2.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "imgs": [
+    {
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-10-26%2016_13_10_8e9cb6/diaporama_983893821e55.jpg",
+     "file": "94-2.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "hash": "a078f225587ab8f82b66b926650a354f3d676920",
+   "deleted": false,
+   "first_seen": "2026-10-26T17:39:14.070Z",
+   "updated_at": "2026-10-26T17:39:14.070Z",
+   "rev": 1
   }
  },
- "last_checked": "2026-10-26T13:00:36.453Z",
- "last_changed": "2026-10-26T11:33:04.140Z",
+ "last_checked": "2026-10-26T17:39:14.070Z",
+ "last_changed": "2026-10-26T17:39:14.070Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
   "https://fs.uae.ac.ma/panel/admin/uploads/1780254614_pdf_icon.png",
   "https://fs.uae.ac.ma/panel/admin/uploads/1780303208_pdf_icon.png",
-  "https://fs.uae.ac.ma/panel/admin/uploads/1780302784_pdf_icon.png"
+  "https://fs.uae.ac.ma/panel/admin/uploads/1780302784_pdf_icon.png",
+  "data:2eb8932f22ec8c19474ef6772765890ad06a6120"
  ]
 }
