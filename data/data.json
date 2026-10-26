@@ -1273,7 +1273,7 @@
    "title": "Emploi du temps et TD actualisé",
    "date": "2026-10-01",
    "url": "https://fs.uae.ac.ma/actualite/72-Emploi%20du%20temps%20et%20TD%20actualis%C3%A9",
-   "excerpt": "*Actualisé le : 16/10/2026 S1 S3 S5 Parcours BG BG-1 A BG-1 B BG-Bio3 A * BG-Bio3 B BG-Géo3 Bio-5 Géo-5 Parcours PC PC-1 A PC-1 B PC-C3 PC-P3 Physique-5 Chimie-5 Parcours MI MI-1 A MI-1 B MI-I3 *…",
+   "excerpt": "*Actualisé le : 26/10/2026 S1 S3 S5 Parcours BG BG-1 A BG-1 B BG-Bio3 A BG-Bio3 B BG-Géo3 Bio-5 * Géo-5 Parcours PC PC-1 A PC-1 B * PC-C3 PC-P3 Physique-5 Chimie-5 Parcours MI MI-1 A MI-1 B MI-I3…",
    "files": 19,
    "thumb": {
     "file": "72-t.webp",
@@ -1295,11 +1295,11 @@
      "h": 450
     }
    ],
-   "hash": "5db1241e638db4de66a8093fb678202aeaa510e1",
+   "hash": "fb89992a53f4f99e12453f6f1608972b7234992a",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-16T15:33:30.123Z",
-   "rev": 7
+   "updated_at": "2026-10-26T11:33:04.140Z",
+   "rev": 8
   },
   "78": {
    "id": 78,
@@ -1445,7 +1445,7 @@
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
    "excerpt": "Déclaration sur l'honneur de non-activité professionnelle Liste des pièces à fournir pour l’inscription en Master Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour…",
-   "files": 47,
+   "files": 49,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "0d1520ec56136617c949e6b522fb5d24b38595f4",
+   "hash": "22e980807b3024d2b25173469eadc71e6e92b3a7",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-23T10:31:48.743Z",
-   "rev": 20
+   "updated_at": "2026-10-26T11:33:04.140Z",
+   "rev": 21
   },
   "86": {
    "id": 86,
@@ -1565,15 +1565,15 @@
      "h": 450
     }
    ],
-   "hash": "7a6d5b8e24ae4ae2f8fe57c0b00cd8fdb0109fac",
+   "hash": "96e2883cb3acde2a8422c8ab27b9664fb06390d3",
    "deleted": false,
    "first_seen": "2026-10-23T11:37:24.780Z",
-   "updated_at": "2026-10-23T11:37:24.780Z",
-   "rev": 1
+   "updated_at": "2026-10-26T11:33:04.140Z",
+   "rev": 2
   }
  },
- "last_checked": "2026-10-26T04:45:35.312Z",
- "last_changed": "2026-10-23T11:37:24.780Z",
+ "last_checked": "2026-10-26T11:33:04.140Z",
+ "last_changed": "2026-10-26T11:33:04.140Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
