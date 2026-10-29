@@ -1445,7 +1445,7 @@
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
    "excerpt": "Déclaration sur l'honneur de non-activité professionnelle Liste des pièces à fournir pour l’inscription en Master Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour…",
-   "files": 58,
+   "files": 59,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "b3b62a3f505b028ff17216168ec487aafed600ee",
+   "hash": "cc08d1ebe2c06c0c556c64b948b061f7f6e04f72",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-10-29T11:46:25.210Z",
-   "rev": 26
+   "updated_at": "2026-10-29T17:35:32.839Z",
+   "rev": 27
   },
   "86": {
    "id": 86,
@@ -1577,7 +1577,7 @@
    "date": "2026-10-26",
    "url": "https://fs.uae.ac.ma/actualite/94-Listes%20des%20inscrits%20en%20deuxi%C3%A8me%20ann%C3%A9e%20Masters%202026-2027",
    "excerpt": "N° Intitulé du Master 2ème Année 1 Biotechnologie et sciences de la santé (BSS) Consulter 2 Ingénierie en biotechnologie et gestion de l’environnement (IBGE) Consulter 3 Valorisation des ressources…",
-   "files": 17,
+   "files": 18,
    "thumb": {
     "file": "94-t.webp",
     "w": 640,
@@ -1598,15 +1598,15 @@
      "h": 450
     }
    ],
-   "hash": "3ad39005208c0f11b841a61f62b7fb02a6decf6f",
+   "hash": "88cd71b8492266b9f89304e94e4551d208ae7a8b",
    "deleted": false,
    "first_seen": "2026-10-26T17:39:14.070Z",
-   "updated_at": "2026-10-27T16:51:43.239Z",
-   "rev": 2
+   "updated_at": "2026-10-29T17:35:32.839Z",
+   "rev": 3
   }
  },
- "last_checked": "2026-10-29T12:59:08.620Z",
- "last_changed": "2026-10-29T11:46:25.210Z",
+ "last_checked": "2026-10-29T17:35:32.839Z",
+ "last_changed": "2026-10-29T17:35:32.839Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
