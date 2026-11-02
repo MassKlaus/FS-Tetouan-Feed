@@ -1306,7 +1306,7 @@
    "title": "Liste des étudiants inscrits",
    "date": "2026-10-05",
    "url": "https://fs.uae.ac.ma/actualite/78-Liste%20des%20%C3%A9tudiants%20inscrits",
-   "excerpt": "*Actualisé le : 17/10/2026 Tronc commun S1 Option S3 Parcours S5 BG-1 * BG-B 3 * Biologie-5 * BG-G 3 * Géologie (IEE)-5 * PC-1 * PC-P 3 * Physique-5 * PC-C 3 * Chimie-5 * MI-1 * MI-I 3 *…",
+   "excerpt": "Actualisé le : 01/11/2026 Tronc commun S1 Option S3 Parcours S5 BG-1 BG-B3 Biologie-5 BG-G3 Géologie-5 PC-1 PC-P3 Physique-5 PC-C3 Chimie-5 MI-1 MI-I3 Mathématique-5 MI-M3 Informatique-5",
    "files": 15,
    "thumb": {
     "file": "78-t.webp",
@@ -1328,11 +1328,11 @@
      "h": 450
     }
    ],
-   "hash": "4077ff9c1bd732f37e17d5935c55d8854d86c9e5",
+   "hash": "b239fa8393ccf56c2534c2bea2ead2fa4c07c1a5",
    "deleted": false,
    "first_seen": null,
-   "updated_at": "2026-10-18T20:41:37.671Z",
-   "rev": 7
+   "updated_at": "2026-11-02T13:51:05.337Z",
+   "rev": 8
   },
   "79": {
    "id": 79,
@@ -1605,8 +1605,8 @@
    "rev": 3
   }
  },
- "last_checked": "2026-11-02T05:59:38.561Z",
- "last_changed": "2026-10-30T17:12:44.640Z",
+ "last_checked": "2026-11-02T13:51:05.337Z",
+ "last_changed": "2026-11-02T13:51:05.337Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
