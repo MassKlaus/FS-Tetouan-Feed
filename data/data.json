@@ -1445,7 +1445,7 @@
    "date": "2026-10-08",
    "url": "https://fs.uae.ac.ma/actualite/84-Candidature%20au%20master%20session%20d'automne%202026%2F2027",
    "excerpt": "Déclaration sur l'honneur de non-activité professionnelle Liste des pièces à fournir pour l’inscription en Master Filière Master Candidats convoqués pour passer le concours Candidats convoqués pour…",
-   "files": 70,
+   "files": 66,
    "thumb": {
     "file": "84-t.webp",
     "w": 640,
@@ -1466,11 +1466,11 @@
      "h": 450
     }
    ],
-   "hash": "94dde2906e492d28ab49e1608d295fb9807bc0d1",
+   "hash": "9ac8fac864a29fe6bcad2c140c9c66b5256d7e45",
    "deleted": false,
    "first_seen": "2026-10-08T22:28:42.170Z",
-   "updated_at": "2026-11-04T19:44:16.833Z",
-   "rev": 31
+   "updated_at": "2026-11-10T13:47:20.215Z",
+   "rev": 32
   },
   "86": {
    "id": 86,
@@ -1605,8 +1605,8 @@
    "rev": 4
   }
  },
- "last_checked": "2026-11-10T07:15:58.746Z",
- "last_changed": "2026-11-09T02:58:53.134Z",
+ "last_checked": "2026-11-10T13:47:20.215Z",
+ "last_changed": "2026-11-10T13:47:20.215Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
