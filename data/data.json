@@ -1603,10 +1603,43 @@
    "first_seen": "2026-10-26T17:39:14.070Z",
    "updated_at": "2026-11-09T02:58:53.134Z",
    "rev": 4
+  },
+  "97": {
+   "id": 97,
+   "title": "Liste  des réinscrits en Doctorat 2026-2027",
+   "date": "2026-11-11",
+   "url": "https://fs.uae.ac.ma/actualite/97-Liste%20%20des%20r%C3%A9inscrits%20en%20Doctorat%202026-2027",
+   "excerpt": "*Actualisé le : 11/11/2026 Liste des réinscrits en Doctorat de l'année universitaire 2026-2027 *",
+   "files": 1,
+   "thumb": {
+    "file": "97-t.webp",
+    "w": 640,
+    "h": 400
+   },
+   "gallery": [
+    {
+     "file": "97-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "imgs": [
+    {
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-11-11%2014_24_41_5bafda/diaporama_332f59eff0a8.jpg",
+     "file": "97-1.webp",
+     "w": 800,
+     "h": 450
+    }
+   ],
+   "hash": "b25dec1091539a2741ccb6e0c421494f3b3c54ad",
+   "deleted": false,
+   "first_seen": "2026-11-11T14:29:29.255Z",
+   "updated_at": "2026-11-11T14:29:29.255Z",
+   "rev": 1
   }
  },
- "last_checked": "2026-11-11T12:57:32.785Z",
- "last_changed": "2026-11-11T12:57:32.785Z",
+ "last_checked": "2026-11-11T14:29:29.255Z",
+ "last_changed": "2026-11-11T14:29:29.255Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
