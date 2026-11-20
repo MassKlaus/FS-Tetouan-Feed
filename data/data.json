@@ -1362,7 +1362,7 @@
     }
    ],
    "hash": "a5ee10cd12e9bfb5fad68e7cfab19150942c2141",
-   "deleted": false,
+   "deleted": true,
    "first_seen": null,
    "updated_at": "2026-11-20T14:23:03.121Z",
    "rev": 5
@@ -1671,7 +1671,7 @@
    "rev": 1
   }
  },
- "last_checked": "2026-11-20T20:16:04.155Z",
+ "last_checked": "2026-11-20T23:21:05.475Z",
  "last_changed": "2026-11-20T14:23:03.121Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
