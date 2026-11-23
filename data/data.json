@@ -1642,8 +1642,8 @@
    "title": "Les doctorants convoqués pour passer les tests E-LOGHASUP",
    "date": "2026-11-16",
    "url": "https://fs.uae.ac.ma/actualite/98-Les%20doctorants%20convoqu%C3%A9s%20pour%20passer%20les%20tests%20E-LOGHASUP",
-   "excerpt": "Les doctorants dont les noms figurent sur la liste 1 ci-jointe sont convoqués pour passer les tests de français et d’anglais via la plateforme E-Logha Sup, en présentiel, selon les modalités…",
-   "files": 1,
+   "excerpt": "Les doctorants dont les noms figurent sur les listes ci-jointes sont convoqués pour passer les tests de français et d’anglais via la plateforme E-Logha Sup, en présentiel, selon les modalités…",
+   "files": 2,
    "thumb": {
     "file": "98-t.webp",
     "w": 640,
@@ -1658,21 +1658,21 @@
    ],
    "imgs": [
     {
-     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-11-16%2012_41_35/photo_98_2_35e2075eb7ca7b8d.png",
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-11-23%2012_01_35/photo_98_2_30ed3b1b9ee53995.png",
      "file": "98-1.webp",
      "w": 800,
      "h": 450
     }
    ],
-   "hash": "3fbe4428c6b246b070dda1224837ba590def0bc8",
+   "hash": "4da8d17a9f25af0514410343db672ff494cdebfb",
    "deleted": false,
    "first_seen": "2026-11-16T14:00:19.979Z",
-   "updated_at": "2026-11-16T14:00:19.979Z",
-   "rev": 1
+   "updated_at": "2026-11-23T16:30:33.213Z",
+   "rev": 2
   }
  },
- "last_checked": "2026-11-23T07:35:49.154Z",
- "last_changed": "2026-11-20T14:23:03.121Z",
+ "last_checked": "2026-11-23T16:30:33.213Z",
+ "last_changed": "2026-11-23T16:30:33.213Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
