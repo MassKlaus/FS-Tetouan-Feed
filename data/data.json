@@ -1658,21 +1658,21 @@
    ],
    "imgs": [
     {
-     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-11-23%2012_01_35/photo_98_2_30ed3b1b9ee53995.png",
+     "key": "https://fs.uae.ac.ma/panel/admin/Actualites/2026-11-26%2010_14_02/photo_98_2_aa9dafff3e2b485c.png",
      "file": "98-1.webp",
      "w": 800,
      "h": 450
     }
    ],
-   "hash": "4da8d17a9f25af0514410343db672ff494cdebfb",
+   "hash": "e121957c77f4ebcc5556931fab5b20b5c2e6e4fc",
    "deleted": false,
    "first_seen": "2026-11-16T14:00:19.979Z",
-   "updated_at": "2026-11-23T16:30:33.213Z",
-   "rev": 2
+   "updated_at": "2026-11-26T15:47:36.598Z",
+   "rev": 3
   }
  },
- "last_checked": "2026-11-26T08:14:46.176Z",
- "last_changed": "2026-11-23T16:30:33.213Z",
+ "last_checked": "2026-11-26T15:47:36.598Z",
+ "last_changed": "2026-11-26T15:47:36.598Z",
  "ignored_images": [
   "data:3ca18a245fa17ba7cfec31c3fbaac34ba16049ac",
   "data:73adc6b2f208d0ec767bcd8f7544f107052dfee7",
